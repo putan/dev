@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "name": "webapi tests",
+  "description": "webapi tests",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Daisuke Akatsuka",
+    "url": "http://mecha-mozilla.org"
+  },
+  "installs_allowed_from": ["*"],
+  "permissions": {
+    "alarms":{},
+    "desktop-notification":{},
+    "geolocation":{}
+  }
+}
